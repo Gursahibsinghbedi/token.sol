@@ -61,7 +61,7 @@ It is a public function that allows to decrease the supply of tokens. If '_accou
 The goal of this project is to give users a practical understanding of many of the subjects taught in the ETH_Beginner Course on Solidity. This software provides real-world examples and implementations to enhance learning and demonstrate how crucial Solidity concepts function.
 
 ## Author
-adityashekhar
+Gursahibsingh
 
 ## License 
 This project is licensed under the MIT License - see the LICENSE file for details
