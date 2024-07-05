@@ -26,8 +26,8 @@ It specifies that the code is written in Solidity and it is compatible with vers
 contract MyToken {
 
     // public variables here
-    string public name = "Metacraft";
-    string public symbol = "MTC";
+    string public name = "sahibcoin";
+    string public symbol = "sahib";
     uint256 public totalSupply = 0;
 ```
 It creates a new contract named MyToken. 'string public name ="Metacraft"' and string public symbol = "MTC"' represent name and symbol of the token respectively. 'uint256 public totalSupply=0' declares a public state variable 'totalSupply' which keeps track of total supply
